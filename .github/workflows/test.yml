@@ -5,7 +5,7 @@ on:
     branches: "*"
 
 jobs:
-  doc:
+  test:
     runs-on: ubuntu-latest
 
     steps:
